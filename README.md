@@ -1,2 +1,2 @@
 # energy-estimator
-energy estimator for neo4j
+energy estimator
